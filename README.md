@@ -24,7 +24,7 @@
 6. In the head fork dropdown (3rd from the left), find and select your repo
 7. Create your pull request
 
-##Updating your repo:
+## Updating your repo:
 
 1. Copy the url for the LEARNAcademy assessments repo
 2. Checkout into master on your machine
